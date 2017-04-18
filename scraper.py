@@ -83,7 +83,7 @@ def convert_mth_strings ( mth_string ):
 #### VARIABLES 1.0
 
 entity_id = "E5019_SLBC_gov"
-url = 'http://www.southwark.gov.uk/downloads/200110/council_budgets_and_spending'
+url = 'http://www.2.southwark.gov.uk/downloads/200212/egovernment'
 errors = 0
 data = []
 
@@ -133,3 +133,4 @@ if errors > 0:
 
 
 #### EOF
+
